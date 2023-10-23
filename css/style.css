@@ -227,6 +227,12 @@ height: auto;
     text-align: center;
 }
 
+.circle {z-index: -3;
+         position: absolute;
+         left: 80%;
+         top: -15%
+        }
+
 .rating-row {
     padding: 5%
 }
